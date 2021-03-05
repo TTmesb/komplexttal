@@ -28,5 +28,6 @@ public class Komplex {
     }
 
     public double arg() {
+     return a;
     }
 }
